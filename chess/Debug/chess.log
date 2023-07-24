@@ -1,0 +1,15 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Check.cpp
+  King.cpp
+  Knight.cpp
+  Manager.cpp
+  Pawn.cpp
+  Player.cpp
+  Queen.cpp
+  Rook.cpp
+  Source.cpp
+  stdafx.cpp
+  Tool.cpp
+  Generating Code...
+  chess.vcxproj -> C:\Users\rafi7\Documents\mag\program\chess\Debug\chess.exe
